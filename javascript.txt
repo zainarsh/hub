@@ -1,3 +1,5 @@
 Javascript is the programming language for the web
 
 JS can update or change both html and css.
+
+JS can be used for the client site application and server site application
